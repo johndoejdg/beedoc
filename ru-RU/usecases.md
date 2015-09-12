@@ -3,48 +3,48 @@
 <table class="docker_use_cases_table table">
     <thead>
         <tr>
-            <td>Use Cases</td>
-            <td>Examples</td>
-            <td>Links</td>
+            <td>Примеры внедрения</td>
+            <td>Примеры</td>
+            <td>Ссылки</td>
         </tr>
     </thead>
     
     <tbody>
         <tr>
-            <td>Documentation server</td>
-            <td>Go Walker - a web server that generates Go projects API documentation with source code on the fly.</td>
+            <td>Сервер документации</td>
+            <td>Go Walker - веб сервер который генерирует для Go проекта API документацию из исходного кода на лету.</td>
             <td><a target="_blank" href="http://gowalker.org">http://gowalker.org</a></td>
         </tr>
 
         <tr>
-        	<td>API services</td>
-        	<td>360 search API service for Youdao, tens of millions requests level.</td>
+        	<td>API сервесы</td>
+        	<td>360 search API сервис для Youdao, обрабатывает десятки миллионов запросов.</td>
         </tr>
 
         <tr>
         	<td></td>
-        	<td>Bmob mobile cloud API service, more than 50 million requests every day.</td>
+        	<td>Bmob мобильный облачный API сервис, более чем 50 миллионов запросов каждый день.</td>
         </tr>
 
         <tr>
         	<td></td>
-        	<td>Weico 3 backend API service.</td>
+        	<td>Weico 3 бекенд API сервис.</td>
         </tr>
 
         <tr>
-        	<td>Blogs</td>
-        	<td>Sudo China - multiple users blog system</td>
+        	<td>Блоги</td>
+        	<td>Sudo China - многопользовательская блоговая система</td>
         	<td><a target="_blank" href="http://www.sudochina.com">http://sudochina.com</a></td>
         </tr>
 
         <tr>
-        	<td>Communities</td>
-        	<td>Very Hour - social network</td>
+        	<td>Сообщество</td>
+        	<td>Very Hour - социальная сеть</td>
         	<td><a target="_blank" href="http://www.veryhour.com">http://veryhour.com</a></td>
         </tr>
 
         <tr>
-        	<td>Enterprise websites</td>
+        	<td>Корпоративные вебсайты</td>
         	<td>I Beautys</td>
         	<td><a target="_blank" href="http://www.ibeautys.com/">http://ibeautys.com/</a></td>
         </tr>
